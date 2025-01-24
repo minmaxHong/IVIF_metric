@@ -1,10 +1,14 @@
 # Evaluation-for-VIF
 Quantitative evaluation for visible  and infrared image fusion.
+<br/>Additionally, This code is a refactored version of the Awesome-Image-Fusion code [Awesome-Image-Fusion](https://github.com/GeoVectorMatrix/Awesome-Image-Fusion)
 
-## Our Chinese blog is as follows：
- - [ ] [图像融合评估指标](https://blog.csdn.net/fovever_/article/details/106906768)
- - [ ] [红外和可见光图像融合论文及代码整理](https://blog.csdn.net/fovever_/article/details/122288699)
- - [ ] [ SeAFusion:首个结合高级视觉任务的图像融合框架](https://blog.csdn.net/fovever_/article/details/106585576)
+
+# Inference
+You can set the paths for the ir, vi, and fused folders in the Evaluation_for_Single_Image.m file, and then run the code below.
+
+```Shell
+Evaluation_for_Single_Image.m
+```
 
 ## If this work is helpful to you, please cite our related papers：
 ```
