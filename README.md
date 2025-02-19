@@ -1,6 +1,6 @@
 # Evaluation-for-VIF
 Quantitative evaluation for visible  and infrared image fusion.
-<br/>Additionally, This code is a refactored version of the Awesome-Image-Fusion code [Awesome-Image-Fusion](https://github.com/GeoVectorMatrix/Awesome-Image-Fusion)
+<br/>Additionally, this code is a refactored version of the Awesome-Image-Fusion code [Awesome-Image-Fusion](https://github.com/GeoVectorMatrix/Awesome-Image-Fusion)
 
 
 # Inference
